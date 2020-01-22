@@ -16,7 +16,7 @@
 - Authentication
 - Middlewares
 - Template
-- 
+- Reloader
 - Test Client
 - Cache
 - Admin
