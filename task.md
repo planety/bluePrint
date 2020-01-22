@@ -39,7 +39,7 @@
 - [ ] Profiler
 
 
-** Plugins **
+**Plugins**
 - [ ] Task Queue
 - [ ] MongoDB
 - [ ] Redis
