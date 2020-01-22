@@ -9,12 +9,12 @@
 - Request 
 - CORS,  GZIP, Static Files, Streams response
 - Session and Cookies
-
 - Route
 - Template
 - Test Client
 - Cache
 - Coverage
+- [ ] Powerful Macros
 
 **Full Stack**
 
