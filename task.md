@@ -1,3 +1,5 @@
+### Core
+
 - [ ] **Fast web server**
 
 - High Performance Http 1.1/2.0 Server
@@ -39,7 +41,7 @@
 - [ ] Profiler
 
 
-**Plugins**
+### Plugins
 - [ ] Task Queue
 - [ ] MongoDB
 - [ ] Redis
