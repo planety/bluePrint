@@ -14,6 +14,7 @@
 - Authentication
 - Middlewares
 - Template
+- 
 - Test Client
 - Cache
 - Admin
@@ -33,5 +34,19 @@
 - [ ] Email Validation/Sender
 - [ ] High Level Logging Module
 - [ ] Template Engine
+- [ ] Database Migrations
 - [ ] Scheduler Job
+- [ ] Profiler
+
+
+** Plugins **
+- [ ] Task Queue
+- [ ] MongoDB
+- [ ] Redis
+- [ ] SQLAlchemy
 - [ ] Coverage
+- [ ] Debugger
+- [ ] Jwt
+- [ ] OAuth
+- [ ] Security
+- [ ] Full-text Searching
