@@ -13,7 +13,7 @@
 - Template
 - Test Client
 - Cache
-- Coverage
+- Admin
 - [ ] Powerful Macros
 
 **Full Stack**
@@ -28,3 +28,4 @@
 - [ ] High Level Logging Module
 - [ ] Template Engine
 - [ ] Scheduler Job
+- [ ] Coverage
