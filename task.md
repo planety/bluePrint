@@ -24,6 +24,7 @@
 - [ ] Xml, Json, Yaml Validation
 - [ ] GrapghQL Support
 - [ ] Nsgi Web Protocol, similar to Wsgi, Asgi
-- [ ] Email Validation
+- [ ] Email Validation/Sender
 - [ ] High Level Logging Module
 - [ ] Template Engine
+- [ ] Scheduler Job
