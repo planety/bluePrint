@@ -1,6 +1,6 @@
 ### Core
 
-- [ ] **Fast web server**
+- [x] **Fast web server** by tulayang
 
 - High Performance Http 1.1/2.0 Server
 - High Performance Websocket Server
@@ -25,13 +25,14 @@
 
 **Full Stack**
 
-- [ ] Db Adapter and ORM
+- [x] Db Adapter by bung87
+- [ ] Db ORM
 - [ ] Xml, Json, Yaml Serialization 
 - [ ] Data Schemas
 - [ ] Xml, Json, Yaml Parser
 - [ ] Xml, Json, Yaml Validation
 - [ ] GrapghQL Support
-- [ ] Forms
+- [ ] Forms Support
 - [ ] Nsgi Web Protocol, similar to Wsgi, Asgi
 - [ ] Email Validation/Sender
 - [ ] High Level Logging Module
