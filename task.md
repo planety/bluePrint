@@ -26,6 +26,7 @@
 **Full Stack**
 
 - [x] Db Adapter by bung87
+- [ ] Swagger
 - [ ] Db ORM
 - [ ] Xml, Json, Yaml Serialization 
 - [ ] Data Schemas
