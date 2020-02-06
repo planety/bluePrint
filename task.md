@@ -9,14 +9,14 @@
 
 - [x] **Web framework** by flywind
 
-- Configure
-- Request 
+- [x] Configure
+- [x] Request 
 - CORS,  GZIP, Static Files, Streams response
 - Route
 - Session and Cookies
 - Authentication
-- Middlewares
-- Template
+- [x] Middlewares
+- [x] Template(Using Nim filter)
 - Test Client
 - Cache
 - Admin
