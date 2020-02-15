@@ -11,13 +11,17 @@
 
 - [x] Configure
 - [x] Request 
-- CORS,  GZIP, Static Files, Streams response
-- Route
-- Session and Cookies
-- Authentication
+- [x] CORS
 - [x] Middlewares
-- [x] Template(Using Nim filter)
-- Test Client
+- [x] Template(Using Karax native or Using Nim filter)
+- [x] Test Client
+- [x] Static Files
+- [x] Route
+- [x] Cookie
+- [x] Signing
+- Session
+- Authentication
+- GZIP, Streams response
 - Cache
 - Admin
 - Background
@@ -27,6 +31,9 @@
 #### **Full Stack**
 
 - [x] Db Adapter by bung87
+- [ ] Memcached client
+- [ ] Redis Client
+- [ ] MongoDB client
 - [ ] Db ORM
 - [ ] Xml, Json, Yaml Serialization 
 - [ ] Data Schemas
@@ -44,13 +51,4 @@
 
 
 ### Plugins
-- [ ] Task Queue
-- [ ] MongoDB
-- [ ] Redis
-- [ ] SQLAlchemy
-- [ ] Coverage
-- [ ] Debugger
-- [ ] Jwt
-- [ ] OAuth
-- [ ] Security
-- [ ] Full-text Searching
+- [ ] Task Que
