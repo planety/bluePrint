@@ -51,4 +51,11 @@
 
 
 ### Plugins
-- [ ] Task Que
+- [ ] Task Queue
+- [ ] SQLAlchemy	
+- [ ] Coverage	
+- [ ] Debugger	
+- [ ] Jwt	
+- [ ] OAuth	
+- [ ] Security	
+- [ ] Full-text Searching
