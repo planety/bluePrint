@@ -20,6 +20,7 @@
 - [x] Cookie
 - [x] Signing
 - Session
+- DB Mapper
 - Authentication
 - GZIP, Streams response
 - Cache
