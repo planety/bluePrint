@@ -24,7 +24,8 @@
 - Authentication
 - GZIP, Streams response
 - Admin
-- Background
+- Flashing Message
+- Startup and Shutdown Events
 - Openapi
 - [ ] Powerful Macros
 
