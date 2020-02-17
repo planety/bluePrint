@@ -19,11 +19,10 @@
 - [x] Route
 - [x] Cookie
 - [x] Signing
+- [x] Cache
 - Session
-- DB Mapper
 - Authentication
 - GZIP, Streams response
-- Cache
 - Admin
 - Background
 - Openapi
