@@ -23,9 +23,10 @@
 - [x] Session
 - Live Monitor
 - Authentication
+- Cross-Site Request Forgery
 - GZIP, Streams response
 - Admin
-- Flashing Message
+- Flashing Messages
 - Startup and Shutdown Events
 - Openapi
 - [ ] Powerful Macros
