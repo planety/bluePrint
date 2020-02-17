@@ -50,6 +50,7 @@
 - [ ] Database Migrations
 - [ ] Scheduler Job
 - [ ] Profiler
+- [ ] i18n
 
 
 ### Plugins
