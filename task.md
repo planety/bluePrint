@@ -20,7 +20,8 @@
 - [x] Cookie
 - [x] Signing
 - [x] Cache
-- Session
+- [x] Session
+- Live Monitor
 - Authentication
 - GZIP, Streams response
 - Admin
