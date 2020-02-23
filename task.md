@@ -56,7 +56,6 @@
 
 ### Plugins
 - [ ] Task Queue
-- [ ] SQLAlchemy	
 - [ ] Coverage	
 - [ ] Debugger	
 - [ ] Jwt	
