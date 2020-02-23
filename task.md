@@ -37,18 +37,15 @@
 - [ ] Memcached client
 - [ ] Redis Client
 - [ ] MongoDB client
-- [ ] Db ORM
+- [ ] Data Mapper
+- [ ] Data Schemas [like json schema or openapi]
 - [ ] Xml, Json, Yaml Serialization 
-- [ ] Data Schemas
 - [ ] Xml, Json, Yaml Parser
 - [ ] Xml, Json, Yaml Validation
 - [ ] GrapghQL Support
-- [ ] Forms Support
-- [ ] Nsgi Web Protocol, similar to Wsgi, Asgi
+- [ ] Forms Support [like WTForms]
 - [ ] Email Validation/Sender
 - [ ] High Level Logging Module
-- [ ] Template Engine
-- [ ] Database Migrations
 - [ ] Scheduler Job
 - [ ] Profiler
 - [ ] i18n
