@@ -45,7 +45,7 @@
 - [ ] Xml, Json, Yaml Serialization 
 - [ ] Xml, Json, Yaml Parser
 - [ ] Xml, Json, Yaml Validation
-- [ ] GrapghQL Support
+- [ ] GrapghQL Client Support
 - [ ] Forms Support [like WTForms]
 - [ ] Email Validation/Sender
 - [ ] High Level Logging Module
@@ -61,5 +61,4 @@
 - [ ] Debugger	
 - [ ] Jwt	
 - [ ] OAuth	
-- [ ] Security	
 - [ ] Full-text Searching
