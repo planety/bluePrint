@@ -21,19 +21,22 @@
 - [x] Signing
 - [x] Cache
 - [x] Session
+- [x] Startup and Shutdown Events
 - Live Monitor
 - Authentication
 - Cross-Site Request Forgery
 - GZIP, Streams response
 - Admin
 - Flashing Messages
-- Startup and Shutdown Events
 - Openapi
-- [ ] Powerful Macros
 
 #### **Full Stack**
 
 - [x] Db Adapter by bung87
+- [ ] High Performance Http 1.1/2.0 Server
+- [ ] High Performance Websocket Server
+- [ ] Http 2.0 Client
+- [ ] Hot Code Reloader
 - [ ] Memcached client
 - [ ] Redis Client
 - [ ] MongoDB client
