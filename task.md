@@ -16,6 +16,7 @@
 - [x] Template(Using Karax native or Using Nim filter)
 - [x] Test Client
 - [x] Static Files
+- [x] Error Handler
 - [x] Route
 - [x] Cookie
 - [x] Signing
@@ -55,6 +56,7 @@
 
 
 ### Plugins
+- [ ] Client-Side Web Libraries (e.g. jQuery & Bootstrap) Packaged
 - [ ] Task Queue
 - [ ] Coverage	
 - [ ] Debugger	
