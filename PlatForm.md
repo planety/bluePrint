@@ -1,6 +1,6 @@
 ## Final Goal
 
-Supply a platform include all modern framworks you need! 
+Supply a platform include all modern frameworks you need! 
 
 ### Web Framework
 
