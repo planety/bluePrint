@@ -35,6 +35,7 @@
 
 - [x] Db Adapter by bung87
 - [ ] All kinds of Async Database Dirver
+- [ ] Gzip
 - [ ] High Performance Http 1.1/2.0 Server
 - [ ] High Performance Websocket Server
 - [ ] Http 2.0 Client
