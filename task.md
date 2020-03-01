@@ -12,6 +12,7 @@
 - [x] Configure
 - [x] Request 
 - [x] CORS
+- [x] Cross-Site Request Forgery
 - [x] Middlewares
 - [x] Template(Using Karax native or Using Nim filter)
 - [x] Test Client
@@ -25,10 +26,8 @@
 - [x] Startup and Shutdown Events
 - Live Monitor
 - Authentication
-- Cross-Site Request Forgery
 - GZIP, Streams response
 - Admin
-- Flashing Messages
 - Openapi
 
 #### **Full Stack**
