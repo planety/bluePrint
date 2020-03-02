@@ -64,3 +64,7 @@
 - [ ] Jwt	
 - [ ] OAuth	
 - [ ] Full-text Searching
+
+### Platforms
+- [ ] Kafka Client
+
