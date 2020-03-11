@@ -9,26 +9,33 @@
 
 #### **Web framework** by flywind
 
-- [x] Configure
-- [x] Request 
-- [x] CORS
-- [x] Cross-Site Request Forgery
-- [x] Middlewares
-- [x] Template(Using Karax native or Using Nim filter)
-- [x] Test Client
-- [x] Static Files
-- [x] Error Handler
-- [x] Route
-- [x] Cookie
-- [x] Signing
-- [x] Cache
-- [x] Session
-- [x] Startup and Shutdown Events
-- Live Monitor
-- Authentication
-- GZIP, Streams response
-- Admin
-- Openapi
+- Core
+  - [x] Base on httpbeast and asynchttpserver
+  - [x] Configure and Settings
+  - [x] Context
+  - [x] Param and Query Data
+  - [x] Form Data
+  - [x] Static Files
+  - [x] Middleware
+  - [x] Simple Route
+  - [x] Regex Route
+  - [x] CORS Response
+  - [x] Signing
+  - [x] Cookie
+  - [x] Session
+  - [x] Cache
+  - [x] Startup and Shutdown Events
+  - [x] URL Building
+  - [x] Exception Handler
+  - [x] Cross-Site Request Forgery
+  - [x] Cross-Site Scripting (XSS) Protection(Karax quote string automatically)
+  - [x] Clickjacking Protection
+  - [x] Authentication
+
+- Plugin
+  - [x] Minimal OpenApi support
+  - [x] Template(Using Karax Native)
+  - [x] Test Client(Using httpclient)
 
 #### **Full Stack**
 
