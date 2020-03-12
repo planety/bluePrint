@@ -41,15 +41,14 @@
 
 - [x] Db Adapter by bung87
 - [ ] All kinds of Async Database Dirver
+- [ ] Async cache
 - [ ] Gzip
-- [ ] High Performance Http 1.1/2.0 Server
-- [ ] High Performance Websocket Server
-- [ ] Http 2.0 Client
 - [ ] Hot Code Reloader
-- [ ] Memcached client
-- [ ] Redis Client
-- [ ] MongoDB client
-- [ ] Data Mapper
+- [ ] Async Memcached client
+- [ ] Async Redis Client
+- [ ] Async MongoDB client
+- [ ] Async Orm
+- [ ] Async Data Mapper
 - [ ] Data Schemas [like json schema or openapi]
 - [ ] Xml, Json, Yaml Serialization 
 - [ ] Xml, Json, Yaml Parser
