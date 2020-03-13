@@ -8,6 +8,10 @@ Everything should be async!
 - Database
 - etc
 
+### Front-End Framework
+
+Just for fun!
+
 ### Web Framework
 
 Full-Stack Web framwork which helps you enjoy your life!
